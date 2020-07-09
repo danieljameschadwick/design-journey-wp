@@ -1,0 +1,59 @@
+/** todo: add to globals **/
+span.chadwk  {
+    font-weight: 800;
+    letter-spacing: -0.15rem;
+}
+
+/**
+    generics
+ */
+.designjourney_container {
+    margin-bottom: 10px;
+}
+
+.designjourney_container .heading {
+    margin-bottom: 5px;
+}
+
+.designjourney_container label {
+    font-weight: 400;
+}
+
+.designjourney_container p {
+    margin-bottom: 15px;
+}
+
+/**
+    generic text
+ */
+
+.designjourney_container p.main {
+    font-size: 32px;
+    color: #000;
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto 60px;
+}
+
+.designjourney_container .center_block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.designjourney_container .center_block a.btn--center {
+    display: inline-block;
+}
+
+/**
+    initial form
+ */
+.thumbnail {
+    text-align: center;
+}
+
+.thumbnail img {
+    max-height: 150px;
+    max-width: 200px;
+}
+
